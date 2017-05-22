@@ -1,8 +1,8 @@
 # ShiningData- Airbnb dataset
 
-| **Name**  | Evelyn Peng | Vyakhya Sachdeva|
-|----------:|:-------------|:-------------|
-| **Email** | ypeng25@usfca.edu |vsachdeva@usfca.edu|
+| **Name**  | Evelyn Peng |
+|----------:|:-------------|
+| **Email** | ypeng25@usfca.edu |
 
 Instructions
 ----------------------
@@ -27,6 +27,10 @@ shiny::runGitHub('ShiningData-final', 'usfviz')
 ```
 
 This will start the `shiny` app. See below for details on how to interact with the visualization.
+
+Following is a live demo for this app.
+
+https://evelynpeng.shinyapps.io/app_airbnb/
 
 ## Data
 
